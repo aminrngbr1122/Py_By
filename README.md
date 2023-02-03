@@ -4,13 +4,9 @@
 
 **How to work with the library:**     
 
-``
-from Py_Bi import Py_By_start 
-``
-``
+``python
+from Py_Bi import Py_By_start
 body = Py_By_start()
-``
-``
 body.Py_To_Exe(Path_python_file)
 ``
 
